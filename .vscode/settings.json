@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "feedback_app_venv\\Scripts\\python.exe",
+    "python.linting.enabled": true
+}
