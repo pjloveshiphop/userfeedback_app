@@ -1,13 +1,12 @@
 # Description
 
 This project was done for fun and to get myself exposed to Python flask framework.
-Basically, the app pulls weather data from api
+Basically, the app is like a bulletin for cusomter review where customers make comments on service and rate it.
 
 ## Installation
 
 None
 
-```bash
-pip install foobar
-```
+## Dependencies
+
 
